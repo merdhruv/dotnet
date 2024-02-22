@@ -1,0 +1,6 @@
+D:\Ali\Company\2023\14-16-12-2023-Cdac-dotnet-Bang\Day11\WebAppRevisionSoln\Dal\bin\Debug\Dal.dll
+D:\Ali\Company\2023\14-16-12-2023-Cdac-dotnet-Bang\Day11\WebAppRevisionSoln\Dal\bin\Debug\Dal.pdb
+D:\Ali\Company\2023\14-16-12-2023-Cdac-dotnet-Bang\Day11\WebAppRevisionSoln\Dal\obj\Debug\Dal.csproj.AssemblyReference.cache
+D:\Ali\Company\2023\14-16-12-2023-Cdac-dotnet-Bang\Day11\WebAppRevisionSoln\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+D:\Ali\Company\2023\14-16-12-2023-Cdac-dotnet-Bang\Day11\WebAppRevisionSoln\Dal\obj\Debug\Dal.dll
+D:\Ali\Company\2023\14-16-12-2023-Cdac-dotnet-Bang\Day11\WebAppRevisionSoln\Dal\obj\Debug\Dal.pdb
